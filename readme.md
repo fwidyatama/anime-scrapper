@@ -1,6 +1,6 @@
 # Anime scrapper
 
-Simple web scrapper used [otakudesu](https://pip.pypa.io/en/stable/) as reference. Built using Typescript, Express and Cheerio.js to get HTML element.
+Simple web scrapper used [otakudesu](https://otakudesu.moe) as reference. Built using Typescript, Express and Cheerio.js to get HTML element.
 
 ## Installation
 
