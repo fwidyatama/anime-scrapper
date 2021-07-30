@@ -1,0 +1,27 @@
+{
+  "name": "otaku-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/node": "^16.4.7",
+    "nodemon": "^2.0.12",
+    "ts-node": "^10.1.0",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "http-status-codes": "^2.1.4"
+  }
+}
